@@ -1,0 +1,34 @@
+
+		body{
+			text-align:center;
+			background-color:#d1e0e0;
+		}
+		
+		p{
+			display:inline;
+		}
+		
+		.Answer{
+			text-align:center;
+		}
+		
+		.addition {background-color: #4CAF50;}
+		.addition:hover {background-color: #46a049;}
+
+		.subtraction {background-color: #2196F3;}
+		.subtraction:hover {background: #0b7dda;}
+
+		.multiplication {background-color: #ff9800;}
+		.multiplication:hover {background: #e68a00;}
+
+		.division {background-color: #f44336;}
+		.division:hover {background: #da190b;}
+
+		.btn {
+			border: none;
+			color: white;
+			padding: 14px 28px;
+			font-size: 16px;
+			cursor: pointer;
+		}
+		
